@@ -7,7 +7,7 @@ This is a project to simulate adding items from a dropbox and choosing quantity 
 
 ## Features
 
-- Html and CSS to provide the front-end [vercel](https://aluga-games-orpin.vercel.app/).
+- Html and CSS to provide the front-end [vercel](https://shopping-cart-green-alpha.vercel.app/).
 - Javascript for the user interaction with the game.
 
 ## Author
